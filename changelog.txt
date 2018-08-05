@@ -1,0 +1,2 @@
+CHANGED BOT SERVICE: I have moved CoconutBot away from Discord.PY because of how CPU intensive Python code is and have moved the bot to the NadekoBot service instead! It is much less CPU intensive and can be ran 24/7 on my main PC so that the bot is always active despite me being online or not.
+ADDED MORE COMMANDS: I have also modified the NadekoBot package to add some custom reactions/commands that can be triggered without using the bot prefix. It also allows the bot to react to new members joining and members leaving by them saying 'Hi' and 'Bye'
